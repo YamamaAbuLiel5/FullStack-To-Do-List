@@ -1,0 +1,8 @@
+#tasks  li
+{
+    list-style-type: none;
+    background-color: rgb(241, 241, 241);
+    font-size: 20px;
+    text-align: start;
+    margin-bottom: 7px;
+}
